@@ -5,21 +5,18 @@ Manufacturing Analysis using Excel, SQL, Power BI &amp; Tableau
 
 * 📌 Project Overview
 
-This project analyzes manufacturing performance using an interactive dashboard built in Power BI. The dashboard helps monitor production output, rejected quantities, and machine/employee performance to improve operational efficiency.
+  This project analyzes manufacturing performance using an interactive dashboard built in Power BI. The dashboard helps monitor production output, rejected   quantities, and machine/employee performance to improve operational efficiency.
 
 * 🛠 Tools Used
 
-Power BI
+  Power BI
 
-Excel
+  Excel
 
-SQL
+  SQL
 
-Tableau
+  Tableau
 
-Power Query
-
-DAX
 
 📊 Key Metrics
 
